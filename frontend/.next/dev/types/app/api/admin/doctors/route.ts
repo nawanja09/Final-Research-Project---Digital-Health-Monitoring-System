@@ -1,4 +1,4 @@
-// File: C:\Users\LENOVO\Desktop\Final-Research-Project\frontend\src\app\api\admin\doctors\route.ts
+// File: C:\Users\LENOVO\Documents\GitHub\Final-Research-Project---Digital-Health-Monitoring-System\frontend\src\app\api\admin\doctors\route.ts
 import * as entry from '../../../../../../../src/app/api/admin/doctors/route.js'
 import type { NextRequest } from 'next/server.js'
 
