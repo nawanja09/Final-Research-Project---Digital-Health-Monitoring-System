@@ -1,0 +1,9 @@
+{
+  "/api/session-results/route": "app/api/session-results/route.js",
+  "/login/page": "app/login/page.js",
+  "/admin/page": "app/admin/page.js",
+  "/doctor-portal/page": "app/doctor-portal/page.js",
+  "/landing/page": "app/landing/page.js",
+  "/session/[id]/page": "app/session/[id]/page.js",
+  "/reports/page": "app/reports/page.js"
+}
