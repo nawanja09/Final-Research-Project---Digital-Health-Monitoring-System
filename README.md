@@ -241,7 +241,7 @@ git clone https://github.com/nawanja09/Final-Research-Project---Digital-Health-M
 ```bash
 cd backend
 pip install -r requirements.txt
-uvicorn main:app --reload
+py -3.11 mindguard_server.py 
 ```
 
 ### 3. Frontend Setup
@@ -256,6 +256,18 @@ npm run dev
 
 * Create a PostgreSQL database
 * Configure environment variables
+
+---
+
+## 🔐 Admin Login (Demo Credentials)
+
+For testing purposes, you can use the following admin credentials:
+
+- **Username:** admin@mindguard.lk 
+- **Password:** admin@123  
+
+⚠️ Note: These are demo credentials for academic/testing purposes only.  
+In production, credentials are securely stored and hashed in the database.
 
 ---
 
