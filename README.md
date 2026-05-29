@@ -27,6 +27,16 @@ This project is part of the **SafeKid Scan multimodal healthcare research platfo
 
 ---
 
+### 🎥 Demo
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nawanja09/Final-Research-Project---Digital-Health-Monitoring-System/main/asset/safekid-demo.gif" width="900"/>
+</p>
+
+*Real-time monitoring dashboard with ECG visualization and behavioral risk alerts*
+
+---
+
 ## 🏗️ System Architecture
 
 ### 1. IoT Sensor Layer
