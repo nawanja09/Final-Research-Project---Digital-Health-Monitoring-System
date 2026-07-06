@@ -187,8 +187,7 @@ Integrated with **Twilio API**, supporting:
 - ThingsBoard  
 
 ### Frontend
-- React.js  
-- React Native  
+- Next.js
 
 ### Machine Learning
 - Scikit-learn  
